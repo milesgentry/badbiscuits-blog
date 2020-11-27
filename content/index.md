@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# The Trough
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> Mostly pinball, some dogs.
