@@ -4,10 +4,10 @@ description: Mostly pinball, some dogs.
 baseurl: http://blog.badbiscuits.co/
 canonicalurl: true
 keywords: [pinball, pin2dmd, dogs]
-author: Arnaud Ligny
+author:
 date:
   format: j F Y
-  timezone: Europe/Paris
+  timezone: America/New_York
 theme:
   - hyde
   - netlify
