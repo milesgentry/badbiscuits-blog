@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Trough
+# Words Go Here
 
 > Mostly pinball, some dogs.
